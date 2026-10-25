@@ -38,7 +38,7 @@ ______________________________________________________________________
 
 ______________________________________________________________________
 
-**Result**  Pass / Practise again / Stop
+**Result**  Pass / Practice again / Stop
 
 **Permitted activity and required supervision** __________________________
 

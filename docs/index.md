@@ -1,6 +1,6 @@
 # Quiver student laboratory handbook
 
-This course teaches University of Lagos students how to use the Quiver laboratory safely, care for shared equipment and complete a supervised build. Use it at the bench: find the activity, follow its procedure and ask the supervisor when a condition is unclear.
+This course teaches students how to use the UNILAG AI UniPod safely, care for shared equipment and complete a supervised build. Use it at the bench: find the activity, follow its procedure and ask the supervisor when a condition is unclear.
 
 Start with the [daily rules](daily-rules.md). Complete the common induction before joining one of the six build teams. Your supervisor records the equipment and activities you are authorised to use.
 
@@ -12,7 +12,7 @@ Start with the [daily rules](daily-rules.md). Complete the common induction befo
 
 ![Quiver reference aircraft](assets/quiver.jpg)
 
-*Reference aircraft from the project repository. All propellers must be removed for classroom and bench work.*
+*Reference photo shows Quiver aircraft. All propellers must be removed for classroom and bench work.*
 
 ## How to use this handbook
 
@@ -34,5 +34,5 @@ Identify hazards and isolate equipment; manage tools and components; use authori
 - **Build and demonstrate:** [systems](systems.md), [SITL](sitl.md), [team work](teams.md), [integration](integration.md) and [assessment](assessment.md).
 - **Records:** [daily checklist](daily-checklist.md), [equipment record](equipment-record.md) and [technical work record](work-record.md).
 
-**Course control:** Version 5.1, 25 October 2026. The department must adopt the procedures and complete the local arrangements in the [delivery guide](delivery.md) before practical teaching. Equipment authorisation and real flight approval are separate decisions.
+<!-- **Course control:** Version 5.1, 25 October 2026. The department must adopt the procedures and complete the local arrangements in the [delivery guide](delivery.md) before practical teaching. Equipment authorisation and real flight approval are separate decisions. -->
 

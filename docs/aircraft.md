@@ -17,7 +17,7 @@ Protect openings against loose fasteners and wire offcuts. Count tools before cl
 ## Payload changes
 
 1. Obtain the integration lead's release and establish safe isolation.
-2. Support the payload before releasing the latch or connector.
+2. Support the payload before releasing the attachment latch or connector.
 3. Identify the approved attachment, power and data interfaces.
 4. Fit the inert training payload and inspect retention, clearance and cable strain relief.
 5. Record its mass, mounting position and outstanding checks.
@@ -27,8 +27,4 @@ This course requires isolation for every swap. A quick-release interface does no
 ## Powered checks
 
 Only the integration lead's authorised operator energises the shared aircraft. Other teams remain clear and do not change wiring or parameters. Follow the written stop plan. If a motor moves unexpectedly, call STOP and step clear; do not grab it.
-
-## Practise and show
-
-On isolated Quiver, identify the **1411 folding-arm connector** and its pinch points. At the bottom attachment, identify the **2131 spacer**, **2112 quick-release plate** and **HAR-0014 bottom-payload harness**. Fit an inert training payload; record mass, retention and clearance without energising the interface.
 

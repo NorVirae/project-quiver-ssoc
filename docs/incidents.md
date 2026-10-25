@@ -15,6 +15,9 @@ Do not return suspect tools, boards or cables to usable stock. Do not place a da
 ## Smoke venting or fire
 
 Raise the alarm, withdraw and evacuate by the safe route. Go to the assembly point and follow staff instructions. Do not carry burning or venting batteries, open an affected enclosure, attempt firefighting or re-enter to retrieve equipment.
+If a fire blocks your exit and you must fight your way out, use a CO₂ or Dry Powder extinguisher:
+Twist and pull the safety pin to snap the plastic seal (do not squeeze the handles while pulling).
+Aim at the base of the fire, squeeze the lever, and sweep from side to side.
 
 ## Injury or electric shock
 
@@ -24,11 +27,5 @@ Alert staff immediately. Keep clear of electrical hazards. Do not touch a person
 
 Report a dropped pack, unexpected motor movement, wrong connector, overheated lead or missing guard even when no injury occurred. Describe what you observed, what was connected, who was informed and what remains isolated. Do not assign blame or conceal an error.
 
-## Practise and show
 
-Use a safe scenario: a frayed lead is found before use. Demonstrate the stop, label, report and segregation sequence. Then explain how the response changes if a battery is actively smoking.
-
-**Local details required:** campus emergency contact, room location, alarm method, exit, assembly point and first aider. The instructor must display these before work.
-
-Sources S3 and S4 inform reporting and battery response. Overseas emergency numbers and site-specific fire procedures are not adopted here.
 

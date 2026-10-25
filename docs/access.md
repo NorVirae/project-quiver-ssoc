@@ -26,9 +26,3 @@ Keep emergency doors, switches, alarms and access routes unobstructed. Never rea
 
 Exit and assembly point; first-aid contact; approved isolation controls; assigned cabinet; battery storage and charging area; fault reporting point; printer stop control; waste collection points.
 
-**Local contacts and locations must be posted before the session begins.** Use the actual university arrangements, not telephone numbers copied from overseas sources.
-
-## Practise and show
-
-Walk the exit route and identify your assigned work area and storage. State one activity you may perform and one that requires further authorisation. The assessor records the result. Sources S1, S3 and S5.
-

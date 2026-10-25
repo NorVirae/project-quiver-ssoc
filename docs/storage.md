@@ -25,10 +25,3 @@ The diagram shows an example layout. The lab manager assigns the actual location
 Remove debris using the approved method; inspect condition; count what remains; return accepted parts to the exact bin; update the issue record. Return leads to their rack and keep probes with their instrument. Report consumables used and tools or components that cannot be accounted for.
 
 Do not mix similar screws, connector variants or component ratings. Do not silently substitute another item. Put uncertain parts in review and ask the stores lead.
-
-## Practise and show
-
-Sort **2111 side attachment spacers** and **2131 bottom spacers** into their own labelled bins. Keep **3112 CW** and **3122 CCW** propellers separately labelled and off the aircraft. Record one issue/return and route an unidentified spacer to review.
-
-**Pass evidence:** correct identification, traceable quantity and correct storage location. Sources S1, S2 and S3.
-

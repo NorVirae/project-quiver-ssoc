@@ -27,5 +27,5 @@ After rework, repeat the affected checks and record why they were selected. Keep
 
 Each team shows its accepted subsystem, one inspection result and one interface. Each student explains their own contribution. Show the simulated flight and its limitations.
 
-**Boundary:** this course ends with supervised bench and simulation evidence. Real flight requires a separate approved aircraft, site, crew, risk assessment and compliance with current Nigerian requirements. See S10.
+**Boundary:** this course ends with supervised bench and simulation evidence. Real flight requires a separate approved aircraft, site, crew, risk assessment and compliance.
 

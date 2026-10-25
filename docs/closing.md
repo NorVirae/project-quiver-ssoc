@@ -23,9 +23,4 @@ Assembly and revision; owner and next operator; work completed; evidence locatio
 
 The frame is assembled but adhesive is curing. Label the assembly with the product and procedure reference, recorded application time and the specified release time. State that loading or movement is restricted until the supervisor releases it.
 
-## Practise and show
-
-Reset a training bench containing spare parts, a suspect cable and unfinished work. Complete the issue/return record and explain the handover to another student.
-
-**Pass evidence:** complete inventory, correct segregation, an accepted bench and a clear record. Sources S1, S2 and S3.
 

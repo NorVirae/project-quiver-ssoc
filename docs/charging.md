@@ -4,7 +4,7 @@
 
 ## Before charging
 
-**Demonstration pair:** the TATTU 4.0 14S 20 Ah smart battery and **TATTU TA7200Pro**, a charger listed in its manual. Staff verify the actual pack variant, firmware and matching manufacturer lead. ACES and Molex variants are not interchangeable; never force or improvise an adapter.
+**Demonstration pair:** the TATTU 4.0 14S 20 Ah smart battery and **TATTU TA7200Pro**, it's charger. Staff verify the actual pack variant, firmware and matching manufacturer lead. ACES and Molex variants are not interchangeable; never force or improvise an adapter.
 
 The pack manual specifies a **60.2 V charging upper limit (4.3 V per cell)**. This is a verification limit, not an instruction to configure a generic charger. Do not apply a generic 4.35 V-per-cell LiHV profile.
 
@@ -27,10 +27,4 @@ Staff apply the TATTU manual's storage and battery-management procedure, record 
 Protect terminals individually; separate packs so connections cannot short; record their condition and location. Store only in the approved battery location and containment, away from ordinary components and combustible stock. Damaged packs require separate staff-managed arrangements.
 
 Never put batteries in general rubbish. Staff arrange disposal through the approved route.
-
-## Practise and show
-
-First rehearse with the TA7200Pro disconnected. Identify channel A/B, screen and Pause/Stop control. **Charging can start automatically about 14 seconds after successful battery communication.** Staff must complete checks before connecting; students then read and log the display during the supervised demonstration.
-
-**Check:** a charge continuing past class requires an authorised handover or safe stop. Sources S4, S5, E1 and E2.
 

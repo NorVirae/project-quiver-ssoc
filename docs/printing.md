@@ -21,13 +21,7 @@ For smoke or fire, raise the alarm and withdraw. Do not open the enclosure to in
 
 ## After the job
 
-Allow the bed and part to cool as directed by the P2S manual. Remove the plate/part using its approved method. Inspect the 2313 mounting holes, edges, warping and layer bonding against the drawing.
+Allow the bed and part to cool. Remove the plate/part using its approved method. Inspect the 2313 mounting holes, edges, warping and layer bonding against the drawing.
 
 Label accepted parts with identity and revision; put rejected parts in review. Appearance alone cannot prove flight suitability. After a power interruption, a technician releases the printer and the instructor reviews any resumed structural print.
-
-## Practise and show
-
-Prepare a **2313 training copy**, demonstrate safe removal and measure one specified feature. Label it TRAINING until formally accepted. Log the result, return tools and reset Bambu Studio for the next user.
-
-Sources S6, E3 and P2. AMS is optional: use the approved feed path actually installed.
 

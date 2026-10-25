@@ -6,7 +6,7 @@ SITL means software in the loop. It lets you practise with flight-controller sof
 
 ## Prepare the session
 
-The instructor provides a tested installation, launch instructions, vehicle model and parameter baseline. Record firmware version or commit, model, parameter-file revision and launch command.
+Your instructor will provides a tested installation, launch instructions, vehicle model, Quiver aircraft flight configurations and parameter baseline. Record firmware version or commit, model, parameter-file revision and launch command.
 
 Confirm that only simulator endpoints are connected. Disconnect real-vehicle connections and label the session **SIMULATION**. Do not upload settings to shared hardware during another team's work.
 
@@ -20,16 +20,4 @@ Confirm that only simulator endpoints are connected. Disconnect real-vehicle con
 6. Repeat individually as operator while a partner observes.
 
 Guided follows supplied commands. Loiter attempts to hold position and altitude when the required estimates are available. RTL follows configured return behaviour. Land descends according to the configured landing behaviour.
-
-## Keep the result honest
-
-The Quiver repository includes an obstacle-avoidance SITL evaluation with approximate aircraft configuration and simulated sensors. Its launch command alone is not a complete, validated Quiver physics model. Advanced exercises need the matching firmware, parameters and sensor configuration verified by the instructor.
-
-Change only one approved parameter at a time. Record the baseline, prediction, change and result, then restore the baseline. Never bypass a safety check to obtain an apparent success.
-
-## Practise and show
-
-Submit your launch record, one flight log, one explained anomaly and two model limitations. Another student should be able to repeat the setup.
-
-Sources S7 and P5. Passing the simulation exercise does not authorise real flight.
 

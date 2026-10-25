@@ -16,7 +16,7 @@ The instructor demonstrates a sound training joint and the inspection method. Al
 
 ## Chemicals and cleaning
 
-Read the label and safety data sheet before using an adhesive, solvent or cleaner. Use the specified ventilation and protection. Keep containers labelled and closed. Do not decant chemicals into drink bottles or combine unknown substances.
+Read the label and safety data sheet before using an adhesive, solvent or cleaner. Use the specified ventilation and protection. Keep containers labelled and closed. Do not decant any chemical (e.g., flux or epoxy) into drink bottles, and do not combine unknown substances.
 
 ## Specialist equipment
 
@@ -25,8 +25,4 @@ Drills, saws, laser cutters, CNC machines, resin printers and composite cutting 
 ## Return and report
 
 Clean tools by the approved method, inspect them and return them to the labelled location. Tag and report faults; do not return a defective tool to the ordinary rack. Never remove guards or repair mains equipment.
-
-## Practise and show
-
-Select the documented driver for a **2313 PCB-cover fastener** and support the isolated assembly. For crimp practice, use the terminals specified for **HAR-0008** on a training sample. Solder only a separate practice coupon; do not practise on Quiver's flight boards. Return each tool to its labelled place. Sources S1, S3 and P3.
 

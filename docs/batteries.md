@@ -4,7 +4,7 @@
 
 ## Before handling
 
-The course example is the **TATTU 4.0 HV 53.2 V, 14S, 20,000 mAh, 25C LiPo smart battery** selected for Quiver. Read the actual label and record its asset ID; do not substitute the 30 Ah pack also listed in the project BOM.
+The Battery you will be handling in this course is the **TATTU 4.0 HV 53.2 V, 14S, 20,000 mAh, 25C LiPo smart battery** selected for Quiver drone. Read the actual label and record its asset ID; do not substitute the 30 Ah pack also listed in the project BOM.
 
 **Read the label:** 14S means fourteen cells in series; 20,000 mAh is 20 Ah. The nominal energy is 1,064 Wh. **53.2 V is nominal voltage, not a charging target; 25C is a discharge rating, not a charger setting.**
 
@@ -24,11 +24,4 @@ Stop using it and notify the electrical supervisor. Do not charge it, reconnect 
 
 If it hisses, smokes, vents or rapidly heats, raise the alarm and withdraw under the emergency plan. **Do not carry an actively failing battery to a cabinet or attempt firefighting.**
 
-## Practise and show
-
-On an unconnected, instructor-released TATTU pack, point to the label, handle, connector and indicators. Explain that an unlit indicator does not prove electrical isolation. Use photographs for damaged-pack examples.
-
-**Record:** pack ID, observed condition, event or impact, date, reporter and supervisor decision. A student's visual check is not an independent declaration that a pack is safe.
-
-Sources S4, S5 and E1. Follow the actual pack manual and laboratory procedure.
 

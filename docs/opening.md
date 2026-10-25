@@ -25,9 +25,3 @@ Never short a capacitor or terminals to discharge energy. A switched-off device 
 
 Account for tools and loose parts. Check that cables, guards and connections are correct and everyone is clear. Only the authorised person removes the isolation tag and approves reconnection. Other teams must not alter the shared aircraft during a powered test.
 
-## Practise and show
-
-On de-energised training equipment, identify all supply paths, attach the correct status label and explain how reconnection is prevented. The instructor assesses the sequence without asking students to work on an exposed live circuit.
-
-**Stop if:** the supply path, isolation status or required test point is uncertain. Record the issue instead of assuming that a dark indicator means the equipment is safe.
-

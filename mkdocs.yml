@@ -1,6 +1,6 @@
-site_name: Quiver Student Laboratory Course
+site_name: Project Quiver Students Safety & Orientation Course
 site_description: Daily laboratory rules, equipment induction and supervised Quiver build work for University of Lagos students.
-site_url: https://quiver-student-lab-course.vyrae.chatgpt.site
+site_url: https://project-quiver-ssoc-tfb6.vercel.app/
 docs_dir: docs
 site_dir: dist
 use_directory_urls: true
@@ -69,10 +69,5 @@ nav:
       - Daily checklist: daily-checklist.md
       - Issue return and authorisation: equipment-record.md
       - Work fault and handover: work-record.md
-  - Teaching and sources:
-      - Timetable and preparation: delivery.md
-      - Sources and adaptations: references.md
-      - Project sources and maintenance: project-references.md
-      - Equipment manuals and examples: equipment-sources.md
-      - Edit and host this course: maintaining.md
+
 

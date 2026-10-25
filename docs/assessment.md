@@ -22,7 +22,7 @@ Record student, task/equipment, date, assessor, evidence, result and permitted a
 
 ## Results
 
-**Pass:** correct performance within required supervision and a clear explanation. **Practise again:** a specific gap needs instruction and reassessment. **Stop:** an unsafe condition or action requires intervention before continuing.
+**Pass:** correct performance within required supervision and a clear explanation. **Practice again:** a specific gap needs instruction and reassessment. **Stop:** an unsafe condition or action requires intervention before continuing.
 
 ## Complete the knowledge check
 

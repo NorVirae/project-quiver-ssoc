@@ -1,6 +1,6 @@
 # Daily laboratory rules
 
-These rules apply throughout every supervised Quiver session. A clean bench and a correct return are part of the work, not an optional extra.
+These rules apply throughout every supervised Quiver assembly session. A clean bench and a correct return are part of the work, not an optional extra.
 
 ![Daily laboratory routine](assets/daily-routine.png)
 
@@ -23,9 +23,9 @@ These rules apply throughout every supervised Quiver session. A clean bench and 
 
 You finish a wiring task with two spare connectors. Check their part numbers, confirm they are clean and undamaged, return them to the correct bins and update the issue record. Put an unidentified connector in the labelled review tray and tell the stores lead. Do not guess its bin.
 
-## Practise and show
+<!-- ## Practise and show
 
 Prepare a bench with a parts tray, an approved job sheet and only the tools needed. Explain how you would deal with a missing tool and a damaged connector.
 
-**Pass evidence:** the instructor sees correct preparation and a complete return and reset. See sources S1, S2 and S3 in [References](references.md).
+**Pass evidence:** the instructor sees correct preparation and a complete return and reset. See sources S1, S2 and S3 in [References](references.md). -->
 

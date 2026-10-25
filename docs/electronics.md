@@ -22,10 +22,3 @@ Use only the permitted low-energy training circuit until authorised for other wo
 Write the expected and observed result with units, instrument identity and circuit conditions. Stop for a reading outside the approved acceptance criteria. Do not adjust a result or bypass protection to obtain a pass.
 
 After the authorised shutdown, remove connections safely, return leads to their racks and keep probes with the instrument. Leave controls and leads in the state specified by the lab procedure.
-
-## Practise and show
-
-Use an isolated **HAR-0008 front-right ESC signal harness** as the training item. Confirm its connector-view drawing, select the correct meter sockets and continuity setting, and record a point-to-point check. Never place this meter setup across the TATTU battery.
-
-**Stop if:** leads are damaged, the circuit state is uncertain, the expected range is unknown or the instrument is unsuitable. Sources S2 and S3 support inspection, authorised use and proper return.
-

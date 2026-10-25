@@ -1,4 +1,4 @@
-# Quiver student laboratory course
+# Project Quiver Students Safety & Orientation Course
 
 A MkDocs Material course for University of Lagos students. Thirty-two practical topic pages cover daily lab routines, equipment induction, six parallel build modules, assessment and printable records. The Word handbook is built from the same Markdown source.
 

@@ -12,7 +12,7 @@ Adjust the chair and screen for a comfortable position and take short movement b
 
 - Save files in the approved team location. Use meaningful names containing the part or task and revision.
 - Keep a dated working copy and use the agreed backup or version-control method.
-- Record changes to CAD, code and parameters. Preserve the approved baseline.
+- Record changes to CAD(STEP, STL, Assembly), code and parameters. Preserve the approved baseline.
 - Do not delete, rename or overwrite another team's work without agreement.
 - Do not connect unknown USB devices or install unapproved software. Ask before connecting equipment to the university network.
 - Keep passwords, keys and personal student records out of public repositories.
@@ -27,9 +27,5 @@ Do not repeatedly switch equipment on and off. Staff inspect and release affecte
 
 Save and back up the work, record its location, close the authorised session and lock or log out. Return shared peripherals and report faults. Do not switch off a shared circuit that supports an active authorised job.
 
-## Practise and show
 
-Save the **2313 cover's Bambu Studio `.3mf` training project** in the team folder, with its drawing revision and student identifier. Retrieve the backup on the approved workstation. For SITL, save the launch command, parameter file and flight log together. Lock the workstation and explain the power-failure response.
-
-**Pass evidence:** saved and retrievable work, protected account and a clear handover. Local university ICT rules take precedence over examples from other institutions.
 
