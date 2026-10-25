@@ -7,7 +7,7 @@ Start with the [daily rules](daily-rules.md). Complete the common induction befo
 <div class="course-actions">
   <a href="daily-rules/">Start the induction</a>
   <a href="daily-checklist/">Open the daily checklist</a>
-  <a href="downloads/Quiver_Student_Laboratory_Handbook_v5_1.docx" download>Download the Word handbook</a>
+  <a href="downloads/Quiver_Student_Laboratory_Handbook_v1.docx" download>Download the Word handbook</a>
 </div>
 
 ![Quiver reference aircraft](assets/quiver.jpg)
