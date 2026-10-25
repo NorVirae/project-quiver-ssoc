@@ -1,0 +1,16 @@
+:root{--md-primary-fg-color:#173d4a;--md-accent-fg-color:#087f8c}
+body{font-family:Segoe UI,Arial,sans-serif}
+.md-typeset{font-size:.82rem;line-height:1.65}
+.md-typeset h1{font-weight:750;letter-spacing:-.025em;color:#173340}
+.md-typeset h2{font-weight:680;color:#173340;margin-top:1.8em}
+.md-typeset img{border-radius:8px;max-height:390px;object-fit:contain}
+.md-typeset table:not([class]){font-size:.72rem}
+.md-typeset li{margin-bottom:.45em}
+.md-typeset .course-actions{display:flex;flex-wrap:wrap;gap:.6rem;margin:1rem 0 1.6rem}
+.md-typeset .course-actions a,.course-print,.course-reset{display:inline-block;border:1px solid #9cb9c1;border-radius:5px;padding:.45rem .75rem;color:#173d4a;font:inherit;cursor:pointer;background:#eef6f7;text-decoration:none}
+.course-toolbar{display:flex;gap:.5rem;flex-wrap:wrap;margin:1rem 0;color:#52666b;font-size:.67rem;align-items:center}
+.course-toolbar span{flex-basis:100%}
+.md-typeset .task-list-control input[type=checkbox]{cursor:pointer}
+@media(max-width:700px){.md-typeset{font-size:.8rem}.md-typeset table:not([class]){font-size:.68rem}.md-typeset img{max-height:none}}
+@media print{.md-header,.md-tabs,.md-sidebar,.md-footer,.md-top,.course-toolbar,.course-actions{display:none!important}.md-main__inner{margin:0}.md-content{margin:0}.md-typeset{font-size:11pt}.md-typeset a{color:#000}.md-typeset img{max-height:65mm}.md-typeset h2{break-after:avoid}.md-typeset table{break-inside:avoid}}
+
