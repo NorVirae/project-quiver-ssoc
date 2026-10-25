@@ -1,0 +1,78 @@
+site_name: Quiver Student Laboratory Course
+site_description: Daily laboratory rules, equipment induction and supervised Quiver build work for University of Lagos students.
+site_url: https://quiver-student-lab-course.vyrae.chatgpt.site
+docs_dir: docs
+site_dir: dist
+use_directory_urls: true
+theme:
+  name: material
+  language: en
+  font: false
+  palette:
+    scheme: default
+    primary: blue grey
+    accent: teal
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+plugins:
+  - search
+markdown_extensions:
+  - tables
+  - attr_list
+  - toc:
+      permalink: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      clickable_checkbox: true
+extra_css:
+  - assets/course.css
+extra_javascript:
+  - assets/course.js
+extra:
+  generator: false
+nav:
+  - Start here: index.md
+  - Daily lab practice:
+      - Daily rules: daily-rules.md
+      - Access and responsibilities: access.md
+      - Opening and isolation: opening.md
+      - Components and labelled storage: storage.md
+      - Batteries: batteries.md
+      - Charging and battery storage: charging.md
+      - Computers and files: computers.md
+      - Electrical benches: electronics.md
+      - Tools and soldering: tools.md
+      - 3D printing: printing.md
+      - Aircraft handling: aircraft.md
+      - Faults and emergencies: incidents.md
+      - Closing the session: closing.md
+  - Build and simulate:
+      - Quiver systems: systems.md
+      - Simulation practice: sitl.md
+      - Parallel team work: teams.md
+      - M1 Structure: m1.md
+      - M2 Powertrain: m2.md
+      - M3 Power and wiring: m3.md
+      - M4 Avionics: m4.md
+      - M5 Payloads and enclosure: m5.md
+      - M6 Software and simulation: m6.md
+      - Integration: integration.md
+  - Checklists and records:
+      - Induction and assessment: assessment.md
+      - Individual knowledge check: knowledge-check.md
+      - Daily checklist: daily-checklist.md
+      - Issue return and authorisation: equipment-record.md
+      - Work fault and handover: work-record.md
+  - Teaching and sources:
+      - Timetable and preparation: delivery.md
+      - Sources and adaptations: references.md
+      - Project sources and maintenance: project-references.md
+      - Equipment manuals and examples: equipment-sources.md
+      - Edit and host this course: maintaining.md
+

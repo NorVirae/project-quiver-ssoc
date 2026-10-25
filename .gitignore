@@ -1,0 +1,7 @@
+dist/
+.venv/
+__pycache__/
+.DS_Store
+.preview.log
+.vercel/
+dist-vercel/

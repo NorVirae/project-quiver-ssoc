@@ -1,0 +1,3 @@
+INHERIT: mkdocs.yml
+site_url: !ENV [COURSE_SITE_URL, '']
+site_dir: dist-vercel

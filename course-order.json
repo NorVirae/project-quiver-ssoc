@@ -1,0 +1,167 @@
+[
+  {
+    "slug": "index",
+    "title": "Quiver student laboratory handbook",
+    "group": "Start here"
+  },
+  {
+    "slug": "daily-rules",
+    "title": "Daily laboratory rules",
+    "group": "Every day"
+  },
+  {
+    "slug": "access",
+    "title": "Access clothing and responsibilities",
+    "group": "Every day"
+  },
+  {
+    "slug": "opening",
+    "title": "Opening the bench and isolating equipment",
+    "group": "Every day"
+  },
+  {
+    "slug": "storage",
+    "title": "Components tools and labelled storage",
+    "group": "Every day"
+  },
+  {
+    "slug": "batteries",
+    "title": "Handling Quiver's TATTU 4.0 battery",
+    "group": "Equipment"
+  },
+  {
+    "slug": "charging",
+    "title": "Charging with the TATTU TA7200Pro",
+    "group": "Equipment"
+  },
+  {
+    "slug": "computers",
+    "title": "Computers files and power interruptions",
+    "group": "Equipment"
+  },
+  {
+    "slug": "electronics",
+    "title": "Electrical benches and test instruments",
+    "group": "Equipment"
+  },
+  {
+    "slug": "tools",
+    "title": "Hand tools soldering and other apparatus",
+    "group": "Equipment"
+  },
+  {
+    "slug": "printing",
+    "title": "Printing a Quiver part on the Bambu Lab P2S",
+    "group": "Equipment"
+  },
+  {
+    "slug": "aircraft",
+    "title": "Handling the aircraft and changing payloads",
+    "group": "Equipment"
+  },
+  {
+    "slug": "incidents",
+    "title": "Damaged equipment and emergency action",
+    "group": "Every day"
+  },
+  {
+    "slug": "closing",
+    "title": "Returning items and closing the session",
+    "group": "Every day"
+  },
+  {
+    "slug": "systems",
+    "title": "Understanding Quiver systems",
+    "group": "Build"
+  },
+  {
+    "slug": "sitl",
+    "title": "ArduPilot simulation practice",
+    "group": "Build"
+  },
+  {
+    "slug": "teams",
+    "title": "Organising parallel build work",
+    "group": "Build"
+  },
+  {
+    "slug": "m1",
+    "title": "M1 Structure",
+    "group": "Build modules"
+  },
+  {
+    "slug": "m2",
+    "title": "M2 Powertrain",
+    "group": "Build modules"
+  },
+  {
+    "slug": "m3",
+    "title": "M3 Power and wiring",
+    "group": "Build modules"
+  },
+  {
+    "slug": "m4",
+    "title": "M4 Avionics",
+    "group": "Build modules"
+  },
+  {
+    "slug": "m5",
+    "title": "M5 Payloads and enclosure",
+    "group": "Build modules"
+  },
+  {
+    "slug": "m6",
+    "title": "M6 Software and simulation",
+    "group": "Build modules"
+  },
+  {
+    "slug": "integration",
+    "title": "Integration checks and demonstration",
+    "group": "Build"
+  },
+  {
+    "slug": "assessment",
+    "title": "Induction checks and course completion",
+    "group": "Records"
+  },
+  {
+    "slug": "knowledge-check",
+    "title": "Individual knowledge check",
+    "group": "Records"
+  },
+  {
+    "slug": "daily-checklist",
+    "title": "Daily opening and closing checklist",
+    "group": "Records"
+  },
+  {
+    "slug": "equipment-record",
+    "title": "Issue return and equipment authorisation",
+    "group": "Records"
+  },
+  {
+    "slug": "work-record",
+    "title": "Technical work fault and handover records",
+    "group": "Records"
+  },
+  {
+    "slug": "delivery",
+    "title": "Course timetable and instructor preparation",
+    "group": "Instructor"
+  },
+  {
+    "slug": "references",
+    "title": "Sources and adaptation notes",
+    "group": "References"
+  },
+  {
+    "slug": "project-references",
+    "title": "Quiver project sources and course maintenance",
+    "group": "References"
+  },
+  {
+    "slug": "equipment-sources",
+    "title": "Equipment manuals and demonstration kit",
+    "group": "References"
+  }
+]
